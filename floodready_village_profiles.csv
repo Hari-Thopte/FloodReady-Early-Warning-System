@@ -1,0 +1,16 @@
+Village_ID,Village_Name,Gauge_ID,Population,Vulnerable_Population,Shelter_Capacity,Distance_to_Shelter_km,Road_Accessible_Flood,Alert_Channel,Phone_Coverage_pct
+V001,Rampur East,G001,3200,850,400,2.5,Yes,SMS,85
+V002,Rampur West,G001,1800,620,250,4.1,No,Loudspeaker,30
+V003,Kosi Tola,G001,950,310,100,6.8,No,WhatsApp,65
+V004,Basantpur Nagar,G002,4500,1200,600,1.2,Yes,SMS,90
+V005,Kamtaul Village,G002,2100,780,300,3.5,Yes,WhatsApp,75
+V006,Gandak Paar,G003,3800,1050,500,2.0,Yes,SMS,88
+V007,Hajipur Bazar,G004,8200,2100,900,0.8,Yes,SMS,95
+V008,Hajipur Rural,G004,5600,1800,600,3.2,No,Loudspeaker,40
+V009,Darbhanga South,G005,6100,1650,800,1.5,Yes,WhatsApp,80
+V010,Muzaffarpur Slum,G006,7500,2800,500,2.8,Yes,SMS,70
+V011,Burhi Paar,G006,2900,1100,300,5.5,No,Loudspeaker,25
+V012,Samastipur North,G007,3300,900,400,2.1,Yes,SMS,82
+V013,Baya Diara,G007,1500,680,150,7.2,No,Loudspeaker,20
+V014,Begusarai Ghat,G008,4100,1050,550,1.8,Yes,WhatsApp,78
+V015,Ganga Kinara,G008,2700,920,280,4.0,No,Loudspeaker,35
